@@ -1,0 +1,1554 @@
+[
+  {
+    "city": "Paris",
+    "country": "France",
+    "clues": [
+      "This city is home to a famous tower that sparkles every night.",
+      "Known as the 'City of Love' and a hub for fashion and art."
+    ],
+    "fun_facts": [
+      "The Eiffel Tower was supposed to be dismantled after 20 years but was saved because it was useful for radio transmissions!",
+      "Paris has only one stop sign in the entire city—most intersections rely on priority-to-the-right rules."
+    ],
+    "trivia": [
+      "This city is famous for its croissants and macarons. Bon appétit!",
+      "Paris was originally a Roman city called Lutetia."
+    ]
+  },
+  {
+    "city": "Tokyo",
+    "country": "Japan",
+    "clues": [
+      "This city has the busiest pedestrian crossing in the world.",
+      "You can visit an entire district dedicated to anime, manga, and gaming."
+    ],
+    "fun_facts": [
+      "Tokyo was originally a small fishing village called Edo before becoming the bustling capital it is today!",
+      "More than 14 million people live in Tokyo, making it one of the most populous cities in the world."
+    ],
+    "trivia": [
+      "The city has over 160,000 restaurants, more than any other city in the world.",
+      "Tokyo’s subway system is so efficient that train delays of just a few minutes come with formal apologies."
+    ]
+  },
+  {
+    "city": "New York",
+    "country": "USA",
+    "clues": [
+      "Home to a green statue gifted by France in the 1800s.",
+      "Nicknamed 'The Big Apple' and known for its Broadway theaters."
+    ],
+    "fun_facts": [
+      "The Statue of Liberty was originally a copper color before oxidizing to its iconic green patina.",
+      "Times Square was once called Longacre Square before being renamed in 1904."
+    ],
+    "trivia": [
+      "New York City has 468 subway stations, making it one of the most complex transit systems in the world.",
+      "The Empire State Building has its own zip code: 10118."
+    ]
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "clues": [
+      "This city is home to a famous clock tower called Big Ben.",
+      "Known for its red double-decker buses and black cabs."
+    ],
+    "fun_facts": [
+      "London has over 170 museums, many of which are free to enter!",
+      "The London Underground is the oldest metro system in the world, opening in 1863."
+    ],
+    "trivia": [
+      "The city has more than 8 million residents, making it one of the most populous cities in Europe.",
+      "London Bridge is not the famous tower bridge—it’s a common misconception!"
+    ]
+  },
+  {
+    "city": "Sydney",
+    "country": "Australia",
+    "clues": [
+      "This city is home to a famous opera house with a unique sail-like design.",
+      "Known for its stunning harbor and iconic bridge."
+    ],
+    "fun_facts": [
+      "The Sydney Opera House was designed by Danish architect Jørn Utzon and took 14 years to build.",
+      "Sydney Harbour Bridge is nicknamed 'The Coathanger' due to its arch-based design."
+    ],
+    "trivia": [
+      "Sydney is the largest city in Australia but not the capital—that’s Canberra!",
+      "The city hosted the 2000 Summer Olympics, one of the most successful games in history."
+    ]
+  },
+  {
+    "city": "Rome",
+    "country": "Italy",
+    "clues": [
+      "This city is home to an ancient amphitheater called the Colosseum.",
+      "Known as the 'Eternal City' and the capital of the Roman Empire."
+    ],
+    "fun_facts": [
+      "Rome has a museum dedicated entirely to pasta—it’s called the Museo della Pasta!",
+      "The city has more than 900 churches, including the famous St. Peter’s Basilica."
+    ],
+    "trivia": [
+      "Rome is built on seven hills, which are still a defining feature of the city today.",
+      "The Trevi Fountain collects over €1 million in coins each year, which is donated to charity."
+    ]
+  },
+  {
+    "city": "Cairo",
+    "country": "Egypt",
+    "clues": [
+      "This city is home to the Great Pyramid of Giza, one of the Seven Wonders of the Ancient World.",
+      "Known as the 'City of a Thousand Minarets' due to its many mosques."
+    ],
+    "fun_facts": [
+      "Cairo is the largest city in Africa and the Middle East.",
+      "The Great Pyramid of Giza was the tallest man-made structure in the world for over 3,800 years."
+    ],
+    "trivia": [
+      "Cairo’s metro system is one of only two in Africa (the other is in Algiers).",
+      "The city is located near the Nile River, the longest river in the world."
+    ]
+  },
+  {
+    "city": "Rio de Janeiro",
+    "country": "Brazil",
+    "clues": [
+      "This city is famous for its giant statue of Christ the Redeemer overlooking the city.",
+      "Known for its annual Carnival festival and samba parades."
+    ],
+    "fun_facts": [
+      "Rio de Janeiro means 'River of January' in Portuguese, named by explorers who thought the bay was a river.",
+      "The Christ the Redeemer statue is one of the New Seven Wonders of the World."
+    ],
+    "trivia": [
+      "Rio is home to the world-famous Copacabana and Ipanema beaches.",
+      "The city hosted the 2016 Summer Olympics, the first time the games were held in South America."
+    ]
+  },
+  {
+    "city": "Berlin",
+    "country": "Germany",
+    "clues": [
+      "This city is known for its iconic Brandenburg Gate and remnants of the Berlin Wall.",
+      "A hub for techno music and modern art."
+    ],
+    "fun_facts": [
+      "Berlin has more bridges than Venice—over 1,700 in total!",
+      "The Berlin Wall was 96 miles long and divided the city for 28 years."
+    ],
+    "trivia": [
+      "Berlin is nine times larger than Paris in terms of area.",
+      "The city has over 180 museums, including the famous Museum Island."
+    ]
+  },
+  {
+    "city": "Moscow",
+    "country": "Russia",
+    "clues": [
+      "This city is home to the colorful domes of St. Basil’s Cathedral.",
+      "Known for its Red Square and the Kremlin."
+    ],
+    "fun_facts": [
+      "Moscow has the largest number of billionaires in the world, surpassing New York City.",
+      "The Moscow Metro is one of the most beautiful subway systems, with chandeliers and mosaics."
+    ],
+    "trivia": [
+      "Moscow is the coldest megacity in the world, with temperatures dropping to -30°C in winter.",
+      "The city’s name comes from the Moskva River, which flows through it."
+    ]
+  },
+  {
+    "city": "Bangkok",
+    "country": "Thailand",
+    "clues": [
+      "This city is known for its ornate temples and bustling street markets.",
+      "Home to the famous Wat Arun and Grand Palace."
+    ],
+    "fun_facts": [
+      "Bangkok’s full ceremonial name is the longest city name in the world, with 169 characters!",
+      "The city has over 400 Buddhist temples."
+    ],
+    "trivia": [
+      "Bangkok is one of the most visited cities in the world, attracting over 22 million tourists annually.",
+      "The city’s floating markets are a unique cultural experience."
+    ]
+  },
+  {
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "clues": [
+      "This city is home to the world’s tallest building, the Burj Khalifa.",
+      "Known for its luxury shopping, ultramodern architecture, and vibrant nightlife."
+    ],
+    "fun_facts": [
+      "Dubai has a police force that uses supercars like Lamborghinis and Ferraris!",
+      "The city has an indoor ski resort, Ski Dubai, in the middle of the desert."
+    ],
+    "trivia": [
+      "Dubai’s Palm Jumeirah is an artificial archipelago shaped like a palm tree.",
+      "The city imports sand for construction because its desert sand is too fine for building."
+    ]
+  },
+  {
+    "city": "Cape Town",
+    "country": "South Africa",
+    "clues": [
+      "This city is known for its iconic Table Mountain and stunning coastal scenery.",
+      "A gateway to the Cape of Good Hope and the famous Robben Island."
+    ],
+    "fun_facts": [
+      "Table Mountain is one of the oldest mountains in the world, estimated to be over 260 million years old.",
+      "Cape Town is home to the only street in the world to have two Nobel Prize winners living on it: Vilakazi Street."
+    ],
+    "trivia": [
+      "The city has a penguin colony at Boulders Beach.",
+      "Cape Town’s Kirstenbosch Botanical Garden is one of the most beautiful in the world."
+    ]
+  },
+  {
+    "city": "Barcelona",
+    "country": "Spain",
+    "clues": [
+      "This city is famous for its unique architecture by Antoni Gaudí, including the Sagrada Família.",
+      "Known for its vibrant culture, beaches, and football team FC Barcelona."
+    ],
+    "fun_facts": [
+      "The Sagrada Família has been under construction for over 140 years and is still not finished!",
+      "Barcelona’s Park Güell was originally intended to be a housing estate but is now a public park."
+    ],
+    "trivia": [
+      "The city hosted the 1992 Summer Olympics, which transformed its waterfront.",
+      "Barcelona has 12 abandoned metro stations, some of which are used for film sets."
+    ]
+  },
+  {
+    "city": "Singapore",
+    "country": "Singapore",
+    "clues": [
+      "This city-state is known for its futuristic skyline and the iconic Marina Bay Sands.",
+      "Famous for its strict laws and cleanliness."
+    ],
+    "fun_facts": [
+      "Singapore has a building called the ‘Interlace’ that looks like a stack of Jenga blocks!",
+      "The city has a night safari, the first of its kind in the world."
+    ],
+    "trivia": [
+      "Singapore is one of only three city-states in the world (the others are Monaco and Vatican City).",
+      "Chewing gum is banned in Singapore, except for medicinal purposes."
+    ]
+  },
+  {
+    "city": "Istanbul",
+    "country": "Turkey",
+    "clues": [
+      "This city straddles two continents, Europe and Asia, connected by the Bosphorus Bridge.",
+      "Known for its historic Hagia Sophia and Blue Mosque."
+    ],
+    "fun_facts": [
+      "Istanbul was the capital of three great empires: Roman, Byzantine, and Ottoman.",
+      "The Grand Bazaar in Istanbul is one of the oldest and largest covered markets in the world."
+    ],
+    "trivia": [
+      "The city has over 3,000 mosques.",
+      "Istanbul’s Basilica Cistern is an ancient underground water reservoir supported by 336 columns."
+    ]
+  },
+  {
+    "city": "Hong Kong",
+    "country": "China",
+    "clues": [
+      "This city is known for its skyscrapers, Victoria Harbour, and bustling street markets.",
+      "Famous for its dim sum and vibrant nightlife."
+    ],
+    "fun_facts": [
+      "Hong Kong has more skyscrapers than any other city in the world!",
+      "The city’s Star Ferry has been operating since 1888 and is one of the cheapest ways to cross Victoria Harbour."
+    ],
+    "trivia": [
+      "Hong Kong has the highest number of Rolls-Royce cars per capita in the world.",
+      "The city’s airport, Chek Lap Kok, was built on an artificial island."
+    ]
+  },
+  {
+    "city": "Vienna",
+    "country": "Austria",
+    "clues": [
+      "This city is known for its imperial palaces, classical music, and coffeehouse culture.",
+      "Home to the famous Vienna State Opera and Schönbrunn Palace."
+    ],
+    "fun_facts": [
+      "Vienna has been voted the most livable city in the world multiple times!",
+      "The city’s Ferris wheel, the Wiener Riesenrad, is one of the oldest in the world."
+    ],
+    "trivia": [
+      "Vienna is home to the world’s oldest zoo, the Tiergarten Schönbrunn.",
+      "The city has over 1,500 coffeehouses, a tradition dating back to the 17th century."
+    ]
+  },
+  {
+    "city": "Toronto",
+    "country": "Canada",
+    "clues": [
+      "This city is home to the iconic CN Tower and a diverse multicultural population.",
+      "Known for its film festival and sports teams like the Toronto Raptors."
+    ],
+    "fun_facts": [
+      "The CN Tower was the tallest freestanding structure in the world for 32 years!",
+      "Toronto has over 140 languages spoken, making it one of the most multicultural cities in the world."
+    ],
+    "trivia": [
+      "The city’s PATH underground walkway is the largest underground shopping complex in the world.",
+      "Toronto’s Yonge Street is listed in the Guinness World Records as the longest street in the world."
+    ]
+  },
+  {
+    "city": "Seoul",
+    "country": "South Korea",
+    "clues": [
+      "This city is known for its K-pop culture, historic palaces, and futuristic technology.",
+      "Home to the famous Gangnam District and N Seoul Tower."
+    ],
+    "fun_facts": [
+      "Seoul has the fastest internet speeds in the world!",
+      "The city’s subway system is one of the most extensive, with over 300 stations."
+    ],
+    "trivia": [
+      "Seoul has over 10 million residents, making it one of the most populous cities in the world.",
+      "The city’s Gyeongbokgung Palace was built in 1395 and is a symbol of Korean history."
+    ]
+  },
+  {
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "clues": [
+      "This city is known for its canals, cycling culture, and historic Anne Frank House.",
+      "Famous for its tulips, windmills, and liberal attitudes."
+    ],
+    "fun_facts": [
+      "Amsterdam has more bicycles than people!",
+      "The city’s canals are a UNESCO World Heritage Site and stretch over 100 kilometers."
+    ],
+    "trivia": [
+      "Amsterdam’s Schiphol Airport is located 4 meters below sea level.",
+      "The city has over 1,200 bridges, earning it the nickname 'Venice of the North.'"
+    ]
+  },
+  {
+    "city": "Chicago",
+    "country": "USA",
+    "clues": [
+      "This city is known for its deep-dish pizza and towering skyscrapers.",
+      "Home to the Willis Tower and Millennium Park."
+    ],
+    "fun_facts": [
+      "Chicago’s nickname, 'The Windy City,' actually refers to its politicians, not the weather.",
+      "The city’s Riverwalk is a popular spot for dining and entertainment."
+    ],
+    "trivia": [
+      "Chicago’s O’Hare International Airport is one of the busiest in the world.",
+      "The city’s Navy Pier is one of the most visited attractions in the Midwest."
+    ]
+  },
+  {
+    "city": "Los Angeles",
+    "country": "USA",
+    "clues": [
+      "This city is known for its Hollywood sign and entertainment industry.",
+      "Home to the famous Walk of Fame and Griffith Observatory."
+    ],
+    "fun_facts": [
+      "Los Angeles has more museums per capita than any other city in the world.",
+      "The city’s original name was 'El Pueblo de Nuestra Señora la Reina de los Ángeles.'"
+    ],
+    "trivia": [
+      "Los Angeles is the only city in North America to have hosted the Summer Olympics twice.",
+      "The city’s traffic is so notorious that it has its own term: 'Carmageddon.'"
+    ]
+  },
+  {
+    "city": "Miami",
+    "country": "USA",
+    "clues": [
+      "This city is known for its vibrant nightlife and Art Deco architecture.",
+      "Home to South Beach and the Everglades National Park."
+    ],
+    "fun_facts": [
+      "Miami is the only major city in the US founded by a woman, Julia Tuttle.",
+      "The city’s Little Havana is a cultural hub for Cuban exiles."
+    ],
+    "trivia": [
+      "Miami’s beaches are so popular that they attract over 14 million visitors annually.",
+      "The city’s PortMiami is known as the 'Cruise Capital of the World.'"
+    ]
+  },
+  {
+    "city": "Las Vegas",
+    "country": "USA",
+    "clues": [
+      "This city is known for its casinos, entertainment, and vibrant nightlife.",
+      "Home to the famous Las Vegas Strip and Fremont Street."
+    ],
+    "fun_facts": [
+      "Las Vegas is the brightest city on Earth when viewed from space.",
+      "The city’s Hoover Dam is one of the largest dams in the world."
+    ],
+    "trivia": [
+      "Las Vegas hosts over 22,000 conventions annually.",
+      "The city’s Bellagio Fountains are one of the most photographed attractions."
+    ]
+  },
+  {
+    "city": "Washington, D.C.",
+    "country": "USA",
+    "clues": [
+      "This city is known for its historic monuments and political significance.",
+      "Home to the White House and the National Mall."
+    ],
+    "fun_facts": [
+      "Washington, D.C. was designed by French architect Pierre L’Enfant.",
+      "The city’s Smithsonian Institution is the world’s largest museum complex."
+    ],
+    "trivia": [
+      "Washington, D.C. has more statues and memorials than any other city in the US.",
+      "The city’s Cherry Blossom Festival attracts over 1.5 million visitors annually."
+    ]
+  },
+  {
+    "city": "Boston",
+    "country": "USA",
+    "clues": [
+      "This city is known for its historic sites and prestigious universities.",
+      "Home to the famous Freedom Trail and Fenway Park."
+    ],
+    "fun_facts": [
+      "Boston’s subway system, the 'T,' is the oldest in the United States.",
+      "The city’s Boston Common is the oldest public park in the US."
+    ],
+    "trivia": [
+      "Boston’s Harvard University is the oldest institution of higher education in the US.",
+      "The city’s annual Boston Marathon is the world’s oldest annual marathon."
+    ]
+  },
+  {
+    "city": "Seattle",
+    "country": "USA",
+    "clues": [
+      "This city is known for its coffee culture and the Space Needle.",
+      "Home to the famous Pike Place Market and tech giant Amazon."
+    ],
+    "fun_facts": [
+      "Seattle’s Starbucks opened its first store in Pike Place Market in 1971.",
+      "The city’s Space Needle was built for the 1962 World’s Fair."
+    ],
+    "trivia": [
+      "Seattle’s music scene gave birth to grunge music in the 1990s.",
+      "The city’s annual Seafair festival includes hydroplane races and air shows."
+    ]
+  },
+  {
+    "city": "Philadelphia",
+    "country": "USA",
+    "clues": [
+      "This city is known for its historic landmarks and cheesesteaks.",
+      "Home to the Liberty Bell and Independence Hall."
+    ],
+    "fun_facts": [
+      "Philadelphia’s City Hall was the tallest building in the world from 1901 to 1908.",
+      "The city’s LOVE Park is famous for its iconic LOVE sculpture."
+    ],
+    "trivia": [
+      "Philadelphia’s University of Pennsylvania is home to the first medical school in the US.",
+      "The city’s annual Mummers Parade is one of the oldest folk festivals in the US."
+    ]
+  },
+  {
+    "city": "Atlanta",
+    "country": "USA",
+    "clues": [
+      "This city is known for its Southern hospitality and Coca-Cola.",
+      "Home to the Georgia Aquarium and Martin Luther King Jr. National Historic Site."
+    ],
+    "fun_facts": [
+      "Atlanta’s Hartsfield-Jackson Airport is the busiest in the world.",
+      "The city’s Centennial Olympic Park was built for the 1996 Summer Olympics."
+    ],
+    "trivia": [
+      "Atlanta’s CNN Center offers behind-the-scenes tours of the news network.",
+      "The city’s Fox Theatre is one of the most iconic entertainment venues in the US."
+    ]
+  },
+  {
+    "city": "Dallas",
+    "country": "USA",
+    "clues": [
+      "This city is known for its cowboy culture and modern skyline.",
+      "Home to the famous Dealey Plaza and Reunion Tower."
+    ],
+    "fun_facts": [
+      "Dallas’s Reunion Tower offers a 360-degree view of the city.",
+      "The city’s Southfork Ranch was the setting for the TV show 'Dallas.'"
+    ],
+    "trivia": [
+      "Dallas’s Arts District is the largest urban arts district in the US.",
+      "The city’s annual State Fair of Texas is one of the largest in the country."
+    ]
+  },
+  {
+    "city": "Houston",
+    "country": "USA",
+    "clues": [
+      "This city is known for its space exploration and diverse culture.",
+      "Home to NASA’s Johnson Space Center and the Houston Museum of Natural Science."
+    ],
+    "fun_facts": [
+      "Houston’s Astrodome was the world’s first domed stadium.",
+      "The city’s nickname, 'Space City,' comes from its role in the space program."
+    ],
+    "trivia": [
+      "Houston’s Museum District has 19 museums within a 1.5-mile radius.",
+      "The city’s annual Houston Livestock Show and Rodeo is the largest in the world."
+    ]
+  },
+  {
+    "city": "San Diego",
+    "country": "USA",
+    "clues": [
+      "This city is known for its beaches and year-round sunny weather.",
+      "Home to the famous San Diego Zoo and Balboa Park."
+    ],
+    "fun_facts": [
+      "San Diego’s Balboa Park is larger than New York’s Central Park.",
+      "The city’s San Diego Zoo is one of the largest and most famous in the world."
+    ],
+    "trivia": [
+      "San Diego’s Gaslamp Quarter is a historic district with Victorian-era buildings.",
+      "The city’s annual Comic-Con is the largest pop culture event in the world."
+    ]
+  },
+  {
+    "city": "Phoenix",
+    "country": "USA",
+    "clues": [
+      "This city is known for its desert landscape and golf courses.",
+      "Home to the famous Camelback Mountain and Heard Museum."
+    ],
+    "fun_facts": [
+      "Phoenix is the hottest major city in the US, with summer temperatures often exceeding 100°F.",
+      "The city’s name comes from the mythical bird that rises from its own ashes."
+    ],
+    "trivia": [
+      "Phoenix’s South Mountain Park is one of the largest municipal parks in the US.",
+      "The city’s annual Phoenix Open is one of the most attended golf tournaments in the world."
+    ]
+  },
+  {
+    "city": "Denver",
+    "country": "USA",
+    "clues": [
+      "This city is known for its proximity to the Rocky Mountains and outdoor activities.",
+      "Home to the famous Red Rocks Amphitheatre and Denver Art Museum."
+    ],
+    "fun_facts": [
+      "Denver’s elevation is exactly one mile above sea level, earning it the nickname 'The Mile High City.'",
+      "The city’s Red Rocks Amphitheatre is a natural outdoor concert venue."
+    ],
+    "trivia": [
+      "Denver’s Union Station is a historic train station turned into a hub for dining and entertainment.",
+      "The city’s annual Great American Beer Festival is the largest in the US."
+    ]
+  },
+  {
+    "city": "Orlando",
+    "country": "USA",
+    "clues": [
+      "This city is known for its theme parks and family-friendly attractions.",
+      "Home to Walt Disney World and Universal Studios Florida."
+    ],
+    "fun_facts": [
+      "Orlando’s Walt Disney World is the most visited vacation resort in the world.",
+      "The city’s International Drive is a major tourist corridor with numerous attractions."
+    ],
+    "trivia": [
+      "Orlando’s Lake Eola Park is home to a famous swan-shaped paddleboat.",
+      "The city’s annual Orlando International Fringe Festival is the oldest in the US."
+    ]
+  },
+  {
+    "city": "Austin",
+    "country": "USA",
+    "clues": [
+      "This city is known for its live music scene and tech industry.",
+      "Home to the famous South by Southwest (SXSW) festival and Texas State Capitol."
+    ],
+    "fun_facts": [
+      "Austin’s slogan, 'Keep Austin Weird,' reflects its unique and eclectic culture.",
+      "The city’s Barton Springs Pool is a natural spring-fed pool that stays 68°F year-round."
+    ],
+    "trivia": [
+      "Austin’s South by Southwest (SXSW) festival is one of the largest in the world.",
+      "The city’s annual Austin City Limits Music Festival attracts over 450,000 attendees."
+    ]
+  },
+  {
+    "city": "Nashville",
+    "country": "USA",
+    "clues": [
+      "This city is known for its country music and vibrant nightlife.",
+      "Home to the Grand Ole Opry and the Country Music Hall of Fame."
+    ],
+    "fun_facts": [
+      "Nashville’s nickname, 'Music City,' comes from its rich musical heritage.",
+      "The city’s Ryman Auditorium is known as the 'Mother Church of Country Music.'"
+    ],
+    "trivia": [
+      "Nashville’s Parthenon is a full-scale replica of the original in Athens, Greece.",
+      "The city’s annual CMA Fest is one of the largest country music festivals in the world."
+    ]
+  },
+  {
+    "city": "New Orleans",
+    "country": "USA",
+    "clues": [
+      "This city is known for its jazz music and Mardi Gras celebrations.",
+      "Home to the famous French Quarter and Bourbon Street."
+    ],
+    "fun_facts": [
+      "New Orleans’ French Quarter is the oldest neighborhood in the city.",
+      "The city’s Mardi Gras celebration is one of the most famous in the world."
+    ],
+    "trivia": [
+      "New Orleans’ St. Louis Cathedral is the oldest continuously active cathedral in the US.",
+      "The city’s annual Jazz & Heritage Festival attracts over 400,000 visitors."
+    ]
+  },
+  {
+    "city": "Portland",
+    "country": "USA",
+    "clues": [
+      "This city is known for its eco-friendliness and craft beer scene.",
+      "Home to the famous Powell’s City of Books and Forest Park."
+    ],
+    "fun_facts": [
+      "Portland’s Powell’s City of Books is the largest independent bookstore in the world.",
+      "The city’s Forest Park is one of the largest urban forests in the US."
+    ],
+    "trivia": [
+      "Portland’s annual Rose Festival is one of the oldest and largest in the US.",
+      "The city’s food cart scene is one of the most diverse in the country."
+    ]
+  },
+  {
+    "city": "San Antonio",
+    "country": "USA",
+    "clues": [
+      "This city is known for its historic missions and River Walk.",
+      "Home to the Alamo and the San Antonio Missions National Historical Park."
+    ],
+    "fun_facts": [
+      "San Antonio’s River Walk is a network of walkways along the San Antonio River.",
+      "The city’s Alamo is one of the most famous historic sites in the US."
+    ],
+    "trivia": [
+      "San Antonio’s Fiesta is one of the largest festivals in the US.",
+      "The city’s Tower of the Americas offers panoramic views of the city."
+    ]
+  },
+  {
+    "city": "Charlotte",
+    "country": "USA",
+    "clues": [
+      "This city is known for its financial industry and NASCAR.",
+      "Home to the NASCAR Hall of Fame and Bank of America Stadium."
+    ],
+    "fun_facts": [
+      "Charlotte’s nickname, 'The Queen City,' comes from its namesake, Queen Charlotte of Mecklenburg-Strelitz.",
+      "The city’s Bank of America Stadium is home to the NFL’s Carolina Panthers."
+    ],
+    "trivia": [
+      "Charlotte’s NASCAR Hall of Fame celebrates the history of stock car racing.",
+      "The city’s annual Carolina Renaissance Festival is one of the largest in the US."
+    ]
+  },
+  {
+    "city": "Indianapolis",
+    "country": "USA",
+    "clues": [
+      "This city is known for its motorsports and cultural institutions.",
+      "Home to the Indianapolis Motor Speedway and the Children’s Museum of Indianapolis."
+    ],
+    "fun_facts": [
+      "Indianapolis’s Indianapolis Motor Speedway is home to the famous Indy 500 race.",
+      "The city’s Children’s Museum of Indianapolis is the largest children’s museum in the world."
+    ],
+    "trivia": [
+      "Indianapolis’s Monument Circle is a historic landmark in the heart of the city.",
+      "The city’s annual Indy Jazz Fest attracts top jazz musicians from around the world."
+    ]
+  },
+  {
+    "city": "Columbus",
+    "country": "USA",
+    "clues": [
+      "This city is known for its diverse culture and educational institutions.",
+      "Home to the Ohio State University and the Columbus Museum of Art."
+    ],
+    "fun_facts": [
+      "Columbus’s Ohio State University is one of the largest universities in the US.",
+      "The city’s Short North Arts District is known for its galleries and restaurants."
+    ],
+    "trivia": [
+      "Columbus’s annual ComFest is one of the largest free music festivals in the US.",
+      "The city’s Franklin Park Conservatory and Botanical Gardens is a popular attraction."
+    ]
+  },
+  {
+    "city": "Detroit",
+    "country": "USA",
+    "clues": [
+      "This city is known for its automotive industry and Motown music.",
+      "Home to the Henry Ford Museum and the Detroit Institute of Arts."
+    ],
+    "fun_facts": [
+      "Detroit’s Motown Records is one of the most influential record labels in music history.",
+      "The city’s Henry Ford Museum is one of the largest indoor-outdoor museums in the US."
+    ],
+    "trivia": [
+      "Detroit’s Renaissance Center is the tallest building in Michigan.",
+      "The city’s annual Detroit Jazz Festival is the largest free jazz festival in the world."
+    ]
+  },
+  {
+    "city": "Memphis",
+    "country": "USA",
+    "clues": [
+      "This city is known for its blues music and barbecue.",
+      "Home to Graceland and the National Civil Rights Museum."
+    ],
+    "fun_facts": [
+      "Memphis’s Beale Street is known as the 'Home of the Blues.'",
+      "The city’s Graceland is the former home of Elvis Presley."
+    ],
+    "trivia": [
+      "Memphis’s National Civil Rights Museum is located at the Lorraine Motel, where Martin Luther King Jr. was assassinated.",
+      "The city’s annual Memphis in May International Festival is one of the largest in the US."
+    ]
+  },
+  {
+    "city": "Baltimore",
+    "country": "USA",
+    "clues": [
+      "This city is known for its historic harbor and seafood.",
+      "Home to the National Aquarium and Fort McHenry."
+    ],
+    "fun_facts": [
+      "Baltimore’s Inner Harbor is one of the most visited tourist destinations in the US.",
+      "The city’s Fort McHenry is where Francis Scott Key wrote 'The Star-Spangled Banner.'"
+    ],
+    "trivia": [
+      "Baltimore’s National Aquarium is one of the largest in the US.",
+      "The city’s annual Preakness Stakes is the second leg of the Triple Crown."
+    ]
+  },
+  {
+    "city": "Kansas City",
+    "country": "USA",
+    "clues": [
+      "This city is known for its jazz heritage and barbecue.",
+      "Home to the American Jazz Museum and the Nelson-Atkins Museum of Art."
+    ],
+    "fun_facts": [
+      "Kansas City’s Country Club Plaza is the first outdoor shopping mall in the US.",
+      "The city’s barbecue style is known for its use of a variety of meats and sauces."
+    ],
+    "trivia": [
+      "Kansas City’s American Jazz Museum celebrates the city’s rich jazz history.",
+      "The city’s annual Kansas City Renaissance Festival is one of the largest in the US."
+    ]
+  },
+  {
+    "city": "Milwaukee",
+    "country": "USA",
+    "clues": [
+      "This city is known for its breweries and Lake Michigan shoreline.",
+      "Home to the Milwaukee Art Museum and Harley-Davidson Museum."
+    ],
+    "fun_facts": [
+      "Milwaukee’s nickname, 'Brew City,' comes from its history of beer production.",
+      "The city’s Milwaukee Art Museum is known for its iconic wing-like structure."
+    ],
+    "trivia": [
+      "Milwaukee’s Harley-Davidson Museum celebrates the history of the famous motorcycle brand.",
+      "The city’s annual Summerfest is the world’s largest music festival."
+    ]
+  },
+  {
+    "city": "Minneapolis",
+    "country": "USA",
+    "clues": [
+      "This city is known for its lakes and vibrant arts scene.",
+      "Home to the Walker Art Center and the Minneapolis Sculpture Garden."
+    ],
+    "fun_facts": [
+      "Minneapolis’s Chain of Lakes is a popular spot for outdoor activities.",
+      "The city’s Walker Art Center is one of the most visited contemporary art museums in the US."
+    ],
+    "trivia": [
+      "Minneapolis’s Guthrie Theater is one of the most renowned regional theaters in the US.",
+      "The city’s annual Twin Cities Pride Festival is one of the largest LGBTQ+ events in the US."
+    ]
+  },
+  {
+    "city": "Tampa",
+    "country": "USA",
+    "clues": [
+      "This city is known for its beaches and Cuban influence.",
+      "Home to Busch Gardens and the Tampa Riverwalk."
+    ],
+    "fun_facts": [
+      "Tampa’s Ybor City is known as the 'Cigar Capital of the World.'",
+      "The city’s Busch Gardens is one of the largest theme parks in the US."
+    ],
+    "trivia": [
+      "Tampa’s annual Gasparilla Pirate Festival is one of the largest pirate festivals in the US.",
+      "The city’s Tampa Riverwalk is a popular spot for dining and entertainment."
+    ]
+  },
+  {
+    "city": "St. Louis",
+    "country": "USA",
+    "clues": [
+      "This city is known for its Gateway Arch and baseball.",
+      "Home to the St. Louis Cardinals and the Missouri Botanical Garden."
+    ],
+    "fun_facts": [
+      "St. Louis’s Gateway Arch is the tallest man-made monument in the US.",
+      "The city’s Anheuser-Busch Brewery is one of the largest in the world."
+    ],
+    "trivia": [
+      "St. Louis’s Forest Park is larger than New York’s Central Park.",
+      "The city’s annual St. Louis International Film Festival is one of the largest in the US."
+    ]
+  },
+  {
+    "city": "Pittsburgh",
+    "country": "USA",
+    "clues": [
+      "This city is known for its steel industry and sports teams.",
+      "Home to the Andy Warhol Museum and PNC Park."
+    ],
+    "fun_facts": [
+      "Pittsburgh’s nickname, 'The Steel City,' comes from its history of steel production.",
+      "The city’s Andy Warhol Museum is the largest museum dedicated to a single artist in the US."
+    ],
+    "trivia": [
+      "Pittsburgh’s Three Rivers Stadium was the first multi-purpose stadium in the US.",
+      "The city’s annual Three Rivers Arts Festival is one of the largest in the US."
+    ]
+  },
+  {
+    "city": "Cincinnati",
+    "country": "USA",
+    "clues": [
+      "This city is known for its chili and historic architecture.",
+      "Home to the Cincinnati Zoo and the National Underground Railroad Freedom Center."
+    ],
+    "fun_facts": [
+      "Cincinnati’s chili is known for its unique spaghetti-based preparation.",
+      "The city’s Cincinnati Zoo is one of the oldest in the US."
+    ],
+    "trivia": [
+      "Cincinnati’s annual Oktoberfest Zinzinnati is the largest Oktoberfest celebration in the US.",
+      "The city’s Findlay Market is one of the oldest public markets in the US."
+    ]
+  },
+  {
+    "city": "Cleveland",
+    "country": "USA",
+    "clues": [
+      "This city is known for its Rock and Roll Hall of Fame and sports teams.",
+      "Home to the Cleveland Museum of Art and Progressive Field."
+    ],
+    "fun_facts": [
+      "Cleveland’s Rock and Roll Hall of Fame is one of the most visited museums in the US.",
+      "The city’s West Side Market is one of the oldest public markets in the US."
+    ],
+    "trivia": [
+      "Cleveland’s annual IngenuityFest celebrates innovation and creativity.",
+      "The city’s Playhouse Square is the largest performing arts center in the US outside of New York."
+    ]
+  },
+  {
+    "city": "Newark",
+    "country": "USA",
+    "clues": [
+      "This city is known for its proximity to New York City and cultural institutions.",
+      "Home to the Newark Museum and the Prudential Center."
+    ],
+    "fun_facts": [
+      "Newark’s Prudential Center is home to the NHL’s New Jersey Devils.",
+      "The city’s Newark Museum is one of the largest museums in New Jersey."
+    ],
+    "trivia": [
+      "Newark’s annual Cherry Blossom Festival is one of the largest in the US.",
+      "The city’s Ironbound district is known for its Portuguese and Spanish restaurants."
+    ]
+  },
+  {
+    "city": "Buffalo",
+    "country": "USA",
+    "clues": [
+      "This city is known for its wings and proximity to Niagara Falls.",
+      "Home to the Albright-Knox Art Gallery and the Buffalo Zoo."
+    ],
+    "fun_facts": [
+      "Buffalo’s Anchor Bar is credited with inventing the Buffalo wing.",
+      "The city’s Albright-Knox Art Gallery is one of the oldest public art museums in the US."
+    ],
+    "trivia": [
+      "Buffalo’s annual National Buffalo Wing Festival celebrates the city’s famous dish.",
+      "The city’s Delaware Park is one of the largest urban parks in the US."
+    ]
+  },
+  {
+    "city": "Raleigh",
+    "country": "USA",
+    "clues": [
+      "This city is known for its research institutions and green spaces.",
+      "Home to the North Carolina Museum of Natural Sciences and Pullen Park."
+    ],
+    "fun_facts": [
+      "Raleigh’s Research Triangle Park is one of the largest research parks in the world.",
+      "The city’s Pullen Park is one of the oldest amusement parks in the US."
+    ],
+    "trivia": [
+      "Raleigh’s annual Artsplosure festival celebrates the city’s arts and culture.",
+      "The city’s North Carolina Museum of Art is one of the largest art museums in the Southeast."
+    ]
+  },
+  {
+    "city": "Louisville",
+    "country": "USA",
+    "clues": [
+      "This city is known for its bourbon and the Kentucky Derby.",
+      "Home to the Louisville Slugger Museum and Churchill Downs."
+    ],
+    "fun_facts": [
+      "Louisville’s Churchill Downs is home to the famous Kentucky Derby.",
+      "The city’s Louisville Slugger Museum celebrates the history of the famous baseball bat."
+    ],
+    "trivia": [
+      "Louisville’s annual Kentucky Derby Festival is one of the largest in the US.",
+      "The city’s Muhammad Ali Center celebrates the life and legacy of the famous boxer."
+    ]
+  },
+  {
+    "city": "Richmond",
+    "country": "USA",
+    "clues": [
+      "This city is known for its historic sites and vibrant arts scene.",
+      "Home to the Virginia Museum of Fine Arts and the Lewis Ginter Botanical Garden."
+    ],
+    "fun_facts": [
+      "Richmond’s Monument Avenue is known for its historic statues and architecture.",
+      "The city’s Virginia Museum of Fine Arts is one of the largest art museums in the US."
+    ],
+    "trivia": [
+      "Richmond’s annual Richmond Folk Festival celebrates the city’s diverse cultural heritage.",
+      "The city’s Lewis Ginter Botanical Garden is one of the most visited in the US."
+    ]
+  },
+  {
+    "city": "Birmingham",
+    "country": "USA",
+    "clues": [
+      "This city is known for its civil rights history and steel industry.",
+      "Home to the Birmingham Civil Rights Institute and Vulcan Park and Museum."
+    ],
+    "fun_facts": [
+      "Birmingham’s Vulcan statue is the largest cast iron statue in the world.",
+      "The city’s Birmingham Civil Rights Institute is a museum dedicated to the civil rights movement."
+    ],
+    "trivia": [
+      "Birmingham’s annual Sidewalk Film Festival is one of the largest in the Southeast.",
+      "The city’s Railroad Park is a popular spot for outdoor activities."
+    ]
+  },
+  {
+    "city": "Salt Lake City",
+    "country": "USA",
+    "clues": [
+      "This city is known for its Mormon heritage and outdoor activities.",
+      "Home to Temple Square and the Great Salt Lake."
+    ],
+    "fun_facts": [
+      "Salt Lake City’s Temple Square is the headquarters of the Church of Jesus Christ of Latter-day Saints.",
+      "The city’s Great Salt Lake is the largest saltwater lake in the Western Hemisphere."
+    ],
+    "trivia": [
+      "Salt Lake City’s annual Sundance Film Festival is one of the largest independent film festivals in the world.",
+      "The city’s Hogle Zoo is one of the oldest in the US."
+    ]
+  },
+  {
+    "city": "Honolulu",
+    "country": "USA",
+    "clues": [
+      "This city is known for its beaches and Hawaiian culture.",
+      "Home to Waikiki Beach and Pearl Harbor."
+    ],
+    "fun_facts": [
+      "Honolulu’s Waikiki Beach is one of the most famous beaches in the world.",
+      "The city’s Pearl Harbor is home to the USS Arizona Memorial."
+    ],
+    "trivia": [
+      "Honolulu’s annual Honolulu Festival celebrates the city’s diverse cultural heritage.",
+      "The city’s Iolani Palace is the only royal palace in the US."
+    ]
+  },
+  {
+    "city": "Anchorage",
+    "country": "USA",
+    "clues": [
+      "This city is known for its proximity to wilderness and outdoor activities.",
+      "Home to the Alaska Native Heritage Center and Chugach State Park."
+    ],
+    "fun_facts": [
+      "Anchorage’s Chugach State Park is one of the largest state parks in the US.",
+      "The city’s Alaska Native Heritage Center celebrates the culture of Alaska’s indigenous peoples."
+    ],
+    "trivia": [
+      "Anchorage’s annual Fur Rendezvous Festival is one of the largest winter festivals in the US.",
+      "The city’s Tony Knowles Coastal Trail is a popular spot for biking and hiking."
+    ]
+  },
+  {
+    "city": "Madrid",
+    "country": "Spain",
+    "clues": [
+      "This city is known for its art museums and vibrant nightlife.",
+      "Home to the Prado Museum and the Royal Palace of Madrid."
+    ],
+    "fun_facts": [
+      "Madrid’s Prado Museum is one of the most visited art museums in the world.",
+      "The city’s Royal Palace of Madrid is the largest royal palace in Europe."
+    ],
+    "trivia": [
+      "Madrid’s annual San Isidro Festival is one of the largest in Spain.",
+      "The city’s Retiro Park is a popular spot for outdoor activities."
+    ]
+  },
+  {
+    "city": "Florence",
+    "country": "Italy",
+    "clues": [
+      "This city is known for its Renaissance art and architecture.",
+      "Home to the Uffizi Gallery and the Florence Cathedral."
+    ],
+    "fun_facts": [
+      "Florence’s Uffizi Gallery is one of the most famous art museums in the world.",
+      "The city’s Florence Cathedral is known for its iconic dome designed by Brunelleschi."
+    ],
+    "trivia": [
+      "Florence’s annual Calcio Storico is a historic football game played in traditional costumes.",
+      "The city’s Ponte Vecchio is one of the most famous bridges in the world."
+    ]
+  },
+  {
+    "city": "Milan",
+    "country": "Italy",
+    "clues": [
+      "This city is known for its fashion and design.",
+      "Home to the Milan Cathedral and the La Scala opera house."
+    ],
+    "fun_facts": [
+      "Milan’s Milan Cathedral is one of the largest churches in the world.",
+      "The city’s La Scala opera house is one of the most famous in the world."
+    ],
+    "trivia": [
+      "Milan’s annual Fashion Week is one of the most important fashion events in the world.",
+      "The city’s Galleria Vittorio Emanuele II is one of the oldest shopping malls in the world."
+    ]
+  },
+  {
+    "city": "Naples",
+    "country": "Italy",
+    "clues": [
+      "This city is known for its pizza and proximity to Mount Vesuvius.",
+      "Home to the Naples National Archaeological Museum and Pompeii."
+    ],
+    "fun_facts": [
+      "Naples’s pizza is considered the birthplace of modern pizza.",
+      "The city’s Pompeii is one of the most famous archaeological sites in the world."
+    ],
+    "trivia": [
+      "Naples’s annual Pizza Festival celebrates the city’s famous dish.",
+      "The city’s Castel dell’Ovo is one of the oldest castles in Italy."
+    ]
+  },
+  {
+    "city": "Venice",
+    "country": "Italy",
+    "clues": [
+      "This city is known for its canals and historic architecture.",
+      "Home to St. Mark’s Basilica and the Rialto Bridge."
+    ],
+    "fun_facts": [
+      "Venice’s canals are a UNESCO World Heritage Site.",
+      "The city’s St. Mark’s Basilica is one of the most famous churches in the world."
+    ],
+    "trivia": [
+      "Venice’s annual Carnival is one of the most famous in the world.",
+      "The city’s gondolas are a traditional mode of transportation."
+    ]
+  },
+  {
+    "city": "Bruges",
+    "country": "Belgium",
+    "clues": [
+      "This city is known for its medieval architecture and canals.",
+      "Home to the Belfry of Bruges and the Church of Our Lady."
+    ],
+    "fun_facts": [
+      "Bruges’s canals are often referred to as the 'Venice of the North.'",
+      "The city’s Belfry of Bruges is one of the most famous landmarks in Belgium."
+    ],
+    "trivia": [
+      "Bruges’s annual Christmas Market is one of the most famous in Europe.",
+      "The city’s Church of Our Lady is home to Michelangelo’s 'Madonna and Child.'"
+    ]
+  },
+  {
+    "city": "Antwerp",
+    "country": "Belgium",
+    "clues": [
+      "This city is known for its diamond trade and art museums.",
+      "Home to the Antwerp Central Station and the Rubens House."
+    ],
+    "fun_facts": [
+      "Antwerp’s diamond district is one of the largest in the world.",
+      "The city’s Antwerp Central Station is considered one of the most beautiful train stations in the world."
+    ],
+    "trivia": [
+      "Antwerp’s annual Antwerp Art Weekend celebrates the city’s art scene.",
+      "The city’s Rubens House is the former home of the famous painter Peter Paul Rubens."
+    ]
+  },
+  {
+    "city": "Ghent",
+    "country": "Belgium",
+    "clues": [
+      "This city is known for its medieval architecture and vibrant cultural scene.",
+      "Home to the Gravensteen Castle and St. Bavo’s Cathedral."
+    ],
+    "fun_facts": [
+      "Ghent’s Gravensteen Castle is one of the most famous medieval castles in Belgium.",
+      "The city’s St. Bavo’s Cathedral is home to the famous Ghent Altarpiece."
+    ],
+    "trivia": [
+      "Ghent’s annual Ghent Festival is one of the largest cultural festivals in Europe.",
+      "The city’s Graslei and Korenlei are two of the most picturesque streets in Belgium."
+    ]
+  },
+  {
+    "city": "Lyon",
+    "country": "France",
+    "clues": [
+      "This city is known for its gastronomy and historic architecture.",
+      "Home to the Basilica of Notre-Dame de Fourvière and the Musée des Confluences."
+    ],
+    "fun_facts": [
+      "Lyon’s Basilica of Notre-Dame de Fourvière is one of the most famous landmarks in France.",
+      "The city’s Musée des Confluences is one of the most modern museums in Europe."
+    ],
+    "trivia": [
+      "Lyon’s annual Festival of Lights is one of the most famous in France.",
+      "The city’s traboules are a network of hidden passageways used by silk workers."
+    ]
+  },
+  {
+    "city": "Nice",
+    "country": "France",
+    "clues": [
+      "This city is known for its beaches and Mediterranean climate.",
+      "Home to the Promenade des Anglais and the Marc Chagall National Museum."
+    ],
+    "fun_facts": [
+      "Nice’s Promenade des Anglais is one of the most famous seaside promenades in the world.",
+      "The city’s Marc Chagall National Museum is dedicated to the works of the famous artist."
+    ],
+    "trivia": [
+      "Nice’s annual Carnival is one of the largest in the world.",
+      "The city’s Old Town is known for its narrow streets and colorful buildings."
+    ]
+  },
+  {
+    "city": "Marseille",
+    "country": "France",
+    "clues": [
+      "This city is known for its port and multicultural heritage.",
+      "Home to the Old Port and the Basilique Notre-Dame de la Garde."
+    ],
+    "fun_facts": [
+      "Marseille’s Old Port is one of the oldest in France.",
+      "The city’s Basilique Notre-Dame de la Garde is one of the most famous landmarks in Marseille."
+    ],
+    "trivia": [
+      "Marseille’s annual Fête du Panier celebrates the city’s multicultural heritage.",
+      "The city’s Calanques National Park is a popular spot for hiking and swimming."
+    ]
+  },
+  {
+    "city": "Bordeaux",
+    "country": "France",
+    "clues": [
+      "This city is known for its wine and historic architecture.",
+      "Home to the Place de la Bourse and the Cité du Vin."
+    ],
+    "fun_facts": [
+      "Bordeaux’s Place de la Bourse is one of the most famous squares in France.",
+      "The city’s Cité du Vin is a museum dedicated to the history of wine."
+    ],
+    "trivia": [
+      "Bordeaux’s annual Bordeaux Wine Festival celebrates the city’s famous wine.",
+      "The city’s Miroir d’Eau is the largest reflecting pool in the world."
+    ]
+  },
+  {
+    "city": "Toulouse",
+    "country": "France",
+    "clues": [
+      "This city is known for its aerospace industry and pink brick architecture.",
+      "Home to the Cité de l’Espace and the Basilica of Saint-Sernin."
+    ],
+    "fun_facts": [
+      "Toulouse’s Cité de l’Espace is a museum dedicated to space exploration.",
+      "The city’s Basilica of Saint-Sernin is one of the largest Romanesque churches in Europe."
+    ],
+    "trivia": [
+      "Toulouse’s annual Rio Loco Festival celebrates world music.",
+      "The city’s Capitole de Toulouse is one of the most famous landmarks in the city."
+    ]
+  },
+  {
+    "city": "Nantes",
+    "country": "France",
+    "clues": [
+      "This city is known for its history and cultural scene.",
+      "Home to the Château des Ducs de Bretagne and the Machines of the Isle of Nantes."
+    ],
+    "fun_facts": [
+      "Nantes’s Château des Ducs de Bretagne is one of the most famous castles in France.",
+      "The city’s Machines of the Isle of Nantes is a unique artistic project featuring mechanical animals."
+    ],
+    "trivia": [
+      "Nantes’s annual Voyage à Nantes is a cultural festival that transforms the city into an open-air art gallery.",
+      "The city’s Île de Nantes is a popular spot for outdoor activities."
+    ]
+  },
+  {
+    "city": "Strasbourg",
+    "country": "France",
+    "clues": [
+      "This city is known for its European institutions and historic architecture.",
+      "Home to the Strasbourg Cathedral and the European Parliament."
+    ],
+    "fun_facts": [
+      "Strasbourg’s Strasbourg Cathedral is one of the tallest churches in the world.",
+      "The city’s European Parliament is one of the most important institutions in the European Union."
+    ],
+    "trivia": [
+      "Strasbourg’s annual Christmas Market is one of the oldest in Europe.",
+      "The city’s Petite France district is known for its half-timbered houses."
+    ]
+  },
+  {
+    "city": "Montpellier",
+    "country": "France",
+    "clues": [
+      "This city is known for its youthful energy and historic architecture.",
+      "Home to the Place de la Comédie and the Montpellier Cathedral."
+    ],
+    "fun_facts": [
+      "Montpellier’s Place de la Comédie is one of the largest pedestrian squares in Europe.",
+      "The city’s Montpellier Cathedral is one of the most famous landmarks in the city."
+    ],
+    "trivia": [
+      "Montpellier’s annual Montpellier Danse festival is one of the largest dance festivals in the world.",
+      "The city’s Antigone district is known for its neoclassical architecture."
+    ]
+  },
+  {
+    "city": "Lille",
+    "country": "France",
+    "clues": [
+      "This city is known for its Flemish architecture and cultural scene.",
+      "Home to the Palais des Beaux-Arts and the Old Stock Exchange."
+    ],
+    "fun_facts": [
+      "Lille’s Palais des Beaux-Arts is one of the largest art museums in France.",
+      "The city’s Old Stock Exchange is one of the most famous landmarks in Lille."
+    ],
+    "trivia": [
+      "Lille’s annual Braderie de Lille is one of the largest flea markets in Europe.",
+      "The city’s Citadel of Lille is one of the most famous fortresses in France."
+    ]
+  },
+  {
+    "city": "Rennes",
+    "country": "France",
+    "clues": [
+      "This city is known for its medieval architecture and vibrant cultural scene.",
+      "Home to the Parlement de Bretagne and the Rennes Cathedral."
+    ],
+    "fun_facts": [
+      "Rennes’s Parlement de Bretagne is one of the most famous landmarks in Brittany.",
+      "The city’s Rennes Cathedral is one of the most famous churches in France."
+    ],
+    "trivia": [
+      "Rennes’s annual Transmusicales festival is one of the largest music festivals in France.",
+      "The city’s Thabor Park is one of the most beautiful parks in France."
+    ]
+  },
+  {
+    "city": "Grenoble",
+    "country": "France",
+    "clues": [
+      "This city is known for its proximity to the Alps and scientific research.",
+      "Home to the Bastille and the Musée de Grenoble."
+    ],
+    "fun_facts": [
+      "Grenoble’s Bastille is one of the most famous fortresses in France.",
+      "The city’s Musée de Grenoble is one of the largest art museums in France."
+    ],
+    "trivia": [
+      "Grenoble’s annual Grenoble Street Art Fest celebrates the city’s street art scene.",
+      "The city’s cable car is one of the oldest in the world."
+    ]
+  },
+  {
+    "city": "Dijon",
+    "country": "France",
+    "clues": [
+      "This city is known for its mustard and historic architecture.",
+      "Home to the Palace of the Dukes of Burgundy and the Dijon Cathedral."
+    ],
+    "fun_facts": [
+      "Dijon’s Palace of the Dukes of Burgundy is one of the most famous landmarks in Burgundy.",
+      "The city’s Dijon Cathedral is one of the most famous churches in France."
+    ],
+    "trivia": [
+      "Dijon’s annual International Gastronomy Fair is one of the largest in France.",
+      "The city’s Owl’s Trail is a popular walking tour that highlights the city’s history."
+    ]
+  },
+  {
+    "city": "Reims",
+    "country": "France",
+    "clues": [
+      "This city is known for its champagne and historic architecture.",
+      "Home to the Reims Cathedral and the Palace of Tau."
+    ],
+    "fun_facts": [
+      "Reims’s Reims Cathedral is one of the most famous churches in France.",
+      "The city’s Palace of Tau is a UNESCO World Heritage Site."
+    ],
+    "trivia": [
+      "Reims’s annual Fêtes Johanniques celebrates the city’s history.",
+      "The city’s champagne houses are some of the most famous in the world."
+    ]
+  },
+  {
+    "city": "Le Havre",
+    "country": "France",
+    "clues": [
+      "This city is known for its modern architecture and port.",
+      "Home to the St. Joseph’s Church and the MuMa."
+    ],
+    "fun_facts": [
+      "Le Havre’s St. Joseph’s Church is one of the most famous landmarks in the city.",
+      "The city’s MuMa is one of the largest art museums in France."
+    ],
+    "trivia": [
+      "Le Havre’s annual Festival du Livre de Jeunesse is one of the largest children’s book festivals in France.",
+      "The city’s modern architecture is a UNESCO World Heritage Site."
+    ]
+  },
+  {
+    "city": "Toulon",
+    "country": "France",
+    "clues": [
+      "This city is known for its naval base and Mediterranean climate.",
+      "Home to the Mont Faron and the Toulon Opera."
+    ],
+    "fun_facts": [
+      "Toulon’s Mont Faron is one of the most famous landmarks in the city.",
+      "The city’s Toulon Opera is one of the most famous opera houses in France."
+    ],
+    "trivia": [
+      "Toulon’s annual Toulon Tournament is one of the most famous youth football tournaments in the world.",
+      "The city’s beaches are some of the most popular in the French Riviera."
+    ]
+  },
+  {
+    "city": "Angers",
+    "country": "France",
+    "clues": [
+      "This city is known for its medieval architecture and wine.",
+      "Home to the Château d’Angers and the Apocalypse Tapestry."
+    ],
+    "fun_facts": [
+      "Angers’s Château d’Angers is one of the most famous castles in France.",
+      "The city’s Apocalypse Tapestry is one of the largest medieval tapestries in the world."
+    ],
+    "trivia": [
+      "Angers’s annual Festival d’Anjou is one of the largest theater festivals in France.",
+      "The city’s Cointreau distillery is one of the most famous in the world."
+    ]
+  },
+  {
+    "city": "Brest",
+    "country": "France",
+    "clues": [
+      "This city is known for its naval history and maritime culture.",
+      "Home to the Océanopolis and the Castle of Brest."
+    ],
+    "fun_facts": [
+      "Brest’s Océanopolis is one of the largest aquariums in Europe.",
+      "The city’s Castle of Brest is one of the oldest castles in France."
+    ],
+    "trivia": [
+      "Brest’s annual International Maritime Festival is one of the largest in the world.",
+      "The city’s Recouvrance Bridge is one of the most famous landmarks in Brest."
+    ]
+  },
+  {
+    "city": "Limoges",
+    "country": "France",
+    "clues": [
+      "This city is known for its porcelain and historic architecture.",
+      "Home to the Limoges Cathedral and the Musée National Adrien Dubouché."
+    ],
+    "fun_facts": [
+      "Limoges’s Limoges Cathedral is one of the most famous churches in France.",
+      "The city’s Musée National Adrien Dubouché is one of the largest porcelain museums in the world."
+    ],
+    "trivia": [
+      "Limoges’s annual Porcelain Festival celebrates the city’s famous porcelain.",
+      "The city’s Jardin d’Orsay is one of the most beautiful parks in France."
+    ]
+  },
+  {
+    "city": "Clermont-Ferrand",
+    "country": "France",
+    "clues": [
+      "This city is known for its volcanic landscape and historic architecture.",
+      "Home to the Clermont-Ferrand Cathedral and the Puy de Dôme."
+    ],
+    "fun_facts": [
+      "Clermont-Ferrand’s Clermont-Ferrand Cathedral is one of the most famous churches in France.",
+      "The city’s Puy de Dôme is one of the most famous volcanoes in France."
+    ],
+    "trivia": [
+      "Clermont-Ferrand’s annual International Short Film Festival is one of the largest in the world.",
+      "The city’s Vulcania is a theme park dedicated to volcanoes."
+    ]
+  },
+  {
+    "city": "Amiens",
+    "country": "France",
+    "clues": [
+      "This city is known for its Gothic cathedral and historic architecture.",
+      "Home to the Amiens Cathedral and the Hortillonnages."
+    ],
+    "fun_facts": [
+      "Amiens’s Amiens Cathedral is one of the largest Gothic cathedrals in France.",
+      "The city’s Hortillonnages are a network of floating gardens."
+    ],
+    "trivia": [
+      "Amiens’s annual Christmas Market is one of the largest in France.",
+      "The city’s Jules Verne House is a museum dedicated to the famous author."
+    ]
+  },
+  {
+    "city": "Tours",
+    "country": "France",
+    "clues": [
+      "This city is known for its historic architecture and wine.",
+      "Home to the Tours Cathedral and the Château de Tours."
+    ],
+    "fun_facts": [
+      "Tours’s Tours Cathedral is one of the most famous churches in France.",
+      "The city’s Château de Tours is one of the most famous castles in France."
+    ],
+    "trivia": [
+      "Tours’s annual Festival de Loire celebrates the city’s history and culture.",
+      "The city’s Place Plumereau is one of the most famous squares in France."
+    ]
+  },
+  {
+    "city": "Orléans",
+    "country": "France",
+    "clues": [
+      "This city is known for its history and Joan of Arc.",
+      "Home to the Orléans Cathedral and the Maison de Jeanne d’Arc."
+    ],
+    "fun_facts": [
+      "Orléans’s Orléans Cathedral is one of the most famous churches in France.",
+      "The city’s Maison de Jeanne d’Arc is a museum dedicated to Joan of Arc."
+    ],
+    "trivia": [
+      "Orléans’s annual Fêtes Johanniques celebrates the city’s history and Joan of Arc.",
+      "The city’s Parc Floral de la Source is one of the most beautiful parks in France."
+    ]
+  },
+  {
+    "city": "Rouen",
+    "country": "France",
+    "clues": [
+      "This city is known for its medieval architecture and Joan of Arc.",
+      "Home to the Rouen Cathedral and the Gros-Horloge."
+    ],
+    "fun_facts": [
+      "Rouen’s Rouen Cathedral is one of the most famous churches in France.",
+      "The city’s Gros-Horloge is one of the most famous astronomical clocks in the world."
+    ],
+    "trivia": [
+      "Rouen’s annual Joan of Arc Festival celebrates the city’s history.",
+      "The city’s Old Market Square is where Joan of Arc was burned at the stake."
+    ]
+  },
+  {
+    "city": "Caen",
+    "country": "France",
+    "clues": [
+      "This city is known for its history and William the Conqueror.",
+      "Home to the Caen Castle and the Abbaye aux Hommes."
+    ],
+    "fun_facts": [
+      "Caen’s Caen Castle is one of the largest medieval castles in France.",
+      "The city’s Abbaye aux Hommes is one of the most famous abbeys in France."
+    ],
+    "trivia": [
+      "Caen’s annual Festival de Normandie celebrates the city’s history and culture.",
+      "The city’s Memorial Museum is one of the most visited museums in France."
+    ]
+  },
+  {
+    "city": "Nîmes",
+    "country": "France",
+    "clues": [
+      "This city is known for its Roman ruins and bullfighting.",
+      "Home to the Nîmes Arena and the Maison Carrée."
+    ],
+    "fun_facts": [
+      "Nîmes’s Nîmes Arena is one of the best-preserved Roman amphitheaters in the world.",
+      "The city’s Maison Carrée is one of the best-preserved Roman temples in the world."
+    ],
+    "trivia": [
+      "Nîmes’s annual Feria de Nîmes is one of the largest bullfighting festivals in France.",
+      "The city’s Jardins de la Fontaine is one of the most beautiful parks in France."
+    ]
+  }
+]
